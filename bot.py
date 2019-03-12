@@ -1,5 +1,6 @@
 import os
 import random
+import sys
 import tweepy
 import creds # hidden and ignored by git
 
