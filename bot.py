@@ -32,4 +32,8 @@ animal = rline("animals.txt")
 
 msg = "."+twit+" is rumoured to have created / distributed "+malware+" and to be working as a proxy of the "+C+" APT group known as "+noun.capitalize()+" "+animal+" "
 print (msg)
-api.update_status(status=msg)
+try:
+	api.update_status(status=msg)
+except Exception as e:
+		print('Error: %s' % e)
+		sys.exit(1)
