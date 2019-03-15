@@ -11,13 +11,13 @@ Pig
 Rabbit
 Fancy Rat Varieties
 Laboratory Rat Strains
-Sheep Breeds
-Water Buffalo Breeds
-Chicken Breeds
-Duck Breeds
-Goose Breeds
-Pigeon Breeds
-Turkey Breeds
+Sheep
+Water Buffalo
+Chicken
+Duck
+Goose
+Pigeon
+Turkey
 Aardvark
 Aardwolf
 African Buffalo
@@ -26,7 +26,7 @@ African Leopard
 Albatross
 Alligator
 Alpaca
-American Buffalo (Bison)
+American Buffalo
 American Robin
 Amphibian
 List
@@ -45,7 +45,7 @@ Arctic Wolf
 Armadillo
 Arrow Crab
 Asp
-Ass (Donkey)
+Ass
 Baboon
 Badger
 Bald Eagle
@@ -57,13 +57,11 @@ Bass
 Bat
 Beaked Whale
 Bear
-List
 Beaver
 Bedbug
 Bee
 Beetle
 Bird
-List
 Bison
 Blackbird
 Black Panther
@@ -79,8 +77,6 @@ Bonobo
 Booby
 Box Jellyfish
 Bovid
-Buffalo, African
-Buffalo, American (Bison)
 Bug
 Butterfly
 Buzzard
@@ -91,20 +87,15 @@ Capybara
 Cardinal
 Caribou
 Carp
-Cat
-List
 Catshark
 Caterpillar
 Catfish
-Cattle
-List
 Centipede
 Cephalopod
 Chameleon
 Cheetah
 Chickadee
 Chicken
-List
 Chimpanzee
 Chinchilla
 Chipmunk
@@ -133,18 +124,12 @@ Damselfly
 Deer
 Dingo
 Dinosaur
-List
-Dog
-List
 Dolphin
-Donkey
-List
 Dormouse
 Dove
 Dragonfly
 Dragon
 Duck
-List
 Dung Beetle
 Eagle
 Earthworm
@@ -172,9 +157,7 @@ Fox
 Frog
 Fruit Bat
 Gamefowl
-List
 Galliform
-List
 Gazelle
 Gecko
 Gerbil
@@ -183,11 +166,8 @@ Giant Squid
 Gibbon
 Gila Monster
 Giraffe
-Goat
-List
 Goldfish
 Goose
-List
 Gopher
 Gorilla
 Grasshopper
@@ -198,12 +178,8 @@ Ground Shark
 Ground Sloth
 Grouse
 Guan
-List
 Guanaco
 Guineafowl
-List
-Guinea Pig
-List
 Gull
 Guppy
 Haddock
@@ -220,8 +196,6 @@ Herring
 Hippopotamus
 Hookworm
 Hornet
-Horse
-List
 Hoverfly
 Hummingbird
 Humpback Whale
@@ -323,9 +297,7 @@ Penguin
 Perch
 Peregrine Falcon
 Pheasant
-Pig
 Pigeon
-List
 Pike
 Pilot Whale
 Pinniped
@@ -349,15 +321,12 @@ Python
 Quail
 Quelea
 Quokka
-Rabbit
-List
 Raccoon
 Rainbow Trout
 Rat
 Rattlesnake
 Raven
-Ray (Batoidea)
-Ray (Rajiformes)
+Ray
 Red Panda
 Reindeer
 Reptile
@@ -381,9 +350,7 @@ Sea Lion
 Sea Slug
 Sea Snail
 Shark
-List
 Sheep
-List
 Shrew
 Shrimp
 Silkworm
@@ -395,7 +362,6 @@ Slug
 Smelt
 Snail
 Snake
-List
 Snipe
 Snow Leopard
 Sockeye Salmon
@@ -441,7 +407,6 @@ Tree Frog
 Trout
 Tuna
 Turkey
-List
 Turtle
 Tyrannosaurus
 Urial
@@ -477,16 +442,7 @@ Yak
 Yellow Perch
 Zebra
 Zebra Finch
-Animals By Number Of Neurons
-Animals By Size
-Common Household Pests
-Common Names Of Poisonous Animals
-Alpaca
 Bali Cattle
-Cat
-Cattle
-Chicken
-Dog
 Domestic Bactrian Camel
 Domestic Canary
 Domestic Dromedary Camel
@@ -501,21 +457,10 @@ Domestic Rabbit
 Domestic Silkmoth
 Domestic Silver Fox
 Domestic Turkey
-Donkey
 Fancy Mouse
 Fancy Rat
 Lab Rat
-Ferret
 Gayal
-Goldfish
-Guinea Pig
-Guppy
-Horse
-Koi
-Llama
 Ringneck Dove
-Sheep
 Siamese Fighting Fish
 Society Finch
-Yak
-Water Buffalo
