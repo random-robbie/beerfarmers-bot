@@ -5,31 +5,31 @@ Cattle
 Dog
 Donkey
 Goat
-Guinea pig
+Guinea Pig
 Horse
 Pig
 Rabbit
-Fancy rat varieties
-laboratory rat strains
-Sheep breeds
-Water buffalo breeds
-Chicken breeds
-Duck breeds
-Goose breeds
-Pigeon breeds
-Turkey breeds
+Fancy Rat Varieties
+Laboratory Rat Strains
+Sheep Breeds
+Water Buffalo Breeds
+Chicken Breeds
+Duck Breeds
+Goose Breeds
+Pigeon Breeds
+Turkey Breeds
 Aardvark
 Aardwolf
-African buffalo
-African elephant
-African leopard
+African Buffalo
+African Elephant
+African Leopard
 Albatross
 Alligator
 Alpaca
-American buffalo (bison)
-American robin
+American Buffalo (Bison)
+American Robin
 Amphibian
-list
+List
 Anaconda
 Angelfish
 Anglerfish
@@ -39,72 +39,72 @@ Antelope
 Antlion
 Ape
 Aphid
-Arabian leopard
+Arabian Leopard
 Arctic Fox
 Arctic Wolf
 Armadillo
-Arrow crab
+Arrow Crab
 Asp
-Ass (donkey)
+Ass (Donkey)
 Baboon
 Badger
-Bald eagle
+Bald Eagle
 Bandicoot
 Barnacle
 Barracuda
 Basilisk
 Bass
 Bat
-Beaked whale
+Beaked Whale
 Bear
-list
+List
 Beaver
 Bedbug
 Bee
 Beetle
 Bird
-list
+List
 Bison
 Blackbird
-Black panther
-Black widow spider
-Blue bird
-Blue jay
-Blue whale
+Black Panther
+Black Widow Spider
+Blue Bird
+Blue Jay
+Blue Whale
 Boa
 Boar
 Bobcat
 Bobolink
 Bonobo
 Booby
-Box jellyfish
+Box Jellyfish
 Bovid
 Buffalo, African
-Buffalo, American (bison)
+Buffalo, American (Bison)
 Bug
 Butterfly
 Buzzard
 Camel
 Canid
-Cape buffalo
+Cape Buffalo
 Capybara
 Cardinal
 Caribou
 Carp
 Cat
-list
+List
 Catshark
 Caterpillar
 Catfish
 Cattle
-list
+List
 Centipede
 Cephalopod
 Chameleon
 Cheetah
 Chickadee
 Chicken
-list
+List
 Chimpanzee
 Chinchilla
 Chipmunk
@@ -121,7 +121,7 @@ Cow
 Coyote
 Crab
 Crane
-Crane fly
+Crane Fly
 Crawdad
 Crayfish
 Cricket
@@ -133,19 +133,19 @@ Damselfly
 Deer
 Dingo
 Dinosaur
-list
+List
 Dog
-list
+List
 Dolphin
 Donkey
-list
+List
 Dormouse
 Dove
 Dragonfly
 Dragon
 Duck
-list
-Dung beetle
+List
+Dung Beetle
 Eagle
 Earthworm
 Earwig
@@ -153,10 +153,10 @@ Echidna
 Eel
 Egret
 Elephant
-Elephant seal
+Elephant Seal
 Elk
 Emu
-English pointer
+English Pointer
 Ermine
 Falcon
 Ferret
@@ -170,84 +170,84 @@ Flyingfish
 Fowl
 Fox
 Frog
-Fruit bat
+Fruit Bat
 Gamefowl
-list
+List
 Galliform
-list
+List
 Gazelle
 Gecko
 Gerbil
-Giant panda
-Giant squid
+Giant Panda
+Giant Squid
 Gibbon
-Gila monster
+Gila Monster
 Giraffe
 Goat
-list
+List
 Goldfish
 Goose
-list
+List
 Gopher
 Gorilla
 Grasshopper
-Great blue heron
-Great white shark
-Grizzly bear
-Ground shark
-Ground sloth
+Great Blue Heron
+Great White Shark
+Grizzly Bear
+Ground Shark
+Ground Sloth
 Grouse
 Guan
-list
+List
 Guanaco
 Guineafowl
-list
-Guinea pig
-list
+List
+Guinea Pig
+List
 Gull
 Guppy
 Haddock
 Halibut
-Hammerhead shark
+Hammerhead Shark
 Hamster
 Hare
 Harrier
 Hawk
 Hedgehog
-Hermit crab
+Hermit Crab
 Heron
 Herring
 Hippopotamus
 Hookworm
 Hornet
 Horse
-list
+List
 Hoverfly
 Hummingbird
-Humpback whale
+Humpback Whale
 Hyena
 Iguana
 Impala
-Irukandji jellyfish
+Irukandji Jellyfish
 Jackal
 Jaguar
 Jay
 Jellyfish
 Junglefowl
 Kangaroo
-Kangaroo mouse
-Kangaroo rat
+Kangaroo Mouse
+Kangaroo Rat
 Kingfisher
 Kite
 Kiwi
 Koala
 Koi
-Komodo dragon
+Komodo Dragon
 Krill
 Ladybug
 Lamprey
 Landfowl
-Land snail
+Land Snail
 Lark
 Leech
 Lemming
@@ -270,7 +270,7 @@ Magpie
 Mammal
 Manatee
 Mandrill
-Manta ray
+Manta Ray
 Marlin
 Marmoset
 Marmot
@@ -286,22 +286,22 @@ Mockingbird
 Mole
 Mollusk
 Mongoose
-Monitor lizard
+Monitor Lizard
 Monkey
 Moose
 Mosquito
 Moth
-Mountain goat
+Mountain Goat
 Mouse
 Mule
 Muskox
 Narwhal
 Newt
-New World quail
+New World Quail
 Nightingale
 Ocelot
 Octopus
-Old World quail
+Old World Quail
 Opossum
 Orangutan
 Orca
@@ -311,7 +311,7 @@ Owl
 Ox
 Panda
 Panther
-Panthera hybrid
+Panthera Hybrid
 Parakeet
 Parrot
 Parrotfish
@@ -321,26 +321,26 @@ Peafowl
 Pelican
 Penguin
 Perch
-Peregrine falcon
+Peregrine Falcon
 Pheasant
 Pig
 Pigeon
-list
+List
 Pike
-Pilot whale
+Pilot Whale
 Pinniped
 Piranha
 Planarian
 Platypus
-Polar bear
+Polar Bear
 Pony
 Porcupine
 Porpoise
-Portuguese man o' war
+Portuguese Man O' War
 Possum
-Prairie dog
+Prairie Dog
 Prawn
-Praying mantis
+Praying Mantis
 Primate
 Ptarmigan
 Puffin
@@ -350,40 +350,40 @@ Quail
 Quelea
 Quokka
 Rabbit
-list
+List
 Raccoon
-Rainbow trout
+Rainbow Trout
 Rat
 Rattlesnake
 Raven
 Ray (Batoidea)
 Ray (Rajiformes)
-Red panda
+Red Panda
 Reindeer
 Reptile
 Rhinoceros
-Right whale
+Right Whale
 Roadrunner
 Rodent
 Rook
 Rooster
 Roundworm
-Saber-toothed cat
+Saber-Toothed Cat
 Sailfish
 Salamander
 Salmon
 Sawfish
-Scale insect
+Scale Insect
 Scallop
 Scorpion
 Seahorse
-Sea lion
-Sea slug
-Sea snail
+Sea Lion
+Sea Slug
+Sea Snail
 Shark
-list
+List
 Sheep
-list
+List
 Shrew
 Shrimp
 Silkworm
@@ -395,26 +395,26 @@ Slug
 Smelt
 Snail
 Snake
-list
+List
 Snipe
-Snow leopard
-Sockeye salmon
+Snow Leopard
+Sockeye Salmon
 Sole
 Sparrow
-Sperm whale
+Sperm Whale
 Spider
-Spider monkey
+Spider Monkey
 Spoonbill
 Squid
 Squirrel
 Starfish
-Star-nosed mole
-Steelhead trout
+Star-Nosed Mole
+Steelhead Trout
 Stingray
 Stoat
 Stork
 Sturgeon
-Sugar glider
+Sugar Glider
 Swallow
 Swan
 Swift
@@ -425,28 +425,28 @@ Takin
 Tapir
 Tarantula
 Tarsier
-Tasmanian devil
+Tasmanian Devil
 Termite
 Tern
 Thrush
 Tick
 Tiger
-Tiger shark
+Tiger Shark
 Tiglon
 Toad
 Tortoise
 Toucan
-Trapdoor spider
-Tree frog
+Trapdoor Spider
+Tree Frog
 Trout
 Tuna
 Turkey
-list
+List
 Turtle
 Tyrannosaurus
 Urial
-Vampire bat
-Vampire squid
+Vampire Bat
+Vampire Squid
 Vicuna
 Viper
 Vole
@@ -456,12 +456,12 @@ Walrus
 Wasp
 Warbler
 Water Boa
-Water buffalo
+Water Buffalo
 Weasel
 Whale
 Whippet
 Whitefish
-Whooping crane
+Whooping Crane
 Wildcat
 Wildebeest
 Wildfowl
@@ -472,50 +472,50 @@ Woodpecker
 Worm
 Wren
 Xerinae
-X-ray fish
+X-Ray Fish
 Yak
-Yellow perch
+Yellow Perch
 Zebra
-Zebra finch
-Animals by number of neurons
-Animals by size
-Common household pests
-Common names of poisonous animals
+Zebra Finch
+Animals By Number Of Neurons
+Animals By Size
+Common Household Pests
+Common Names Of Poisonous Animals
 Alpaca
-Bali cattle
+Bali Cattle
 Cat
 Cattle
 Chicken
 Dog
-Domestic Bactrian camel
-Domestic canary
-Domestic dromedary camel
-Domestic duck
-Domestic goat
-Domestic goose
-Domestic guineafowl
-Domestic hedgehog
-Domestic pig
-Domestic pigeon
-Domestic rabbit
-Domestic silkmoth
-Domestic silver fox
-Domestic turkey
+Domestic Bactrian Camel
+Domestic Canary
+Domestic Dromedary Camel
+Domestic Duck
+Domestic Goat
+Domestic Goose
+Domestic Guineafowl
+Domestic Hedgehog
+Domestic Pig
+Domestic Pigeon
+Domestic Rabbit
+Domestic Silkmoth
+Domestic Silver Fox
+Domestic Turkey
 Donkey
-Fancy mouse
-Fancy rat
-Lab rat
+Fancy Mouse
+Fancy Rat
+Lab Rat
 Ferret
 Gayal
 Goldfish
-Guinea pig
+Guinea Pig
 Guppy
 Horse
 Koi
 Llama
-Ringneck dove
+Ringneck Dove
 Sheep
-Siamese fighting fish
-Society finch
+Siamese Fighting Fish
+Society Finch
 Yak
-Water buffalo
+Water Buffalo
