@@ -30,7 +30,7 @@ C = rline("countries.txt")
 noun = rline("nouns.txt")
 animal = rline("animals.txt")
 
-msg = "."+twit+" is rumoured to have created / distributed "+malware+" and to be working as a proxy of the "+C+" APT group known as "+noun.capitalize()+" "+animal+" "
+msg = "."+twit+" is rumoured to have created / distributed "+malware+" and to be working as a proxy of the "+C+" APT group known as "+noun.capitalize()+" "+animal+" #JustForFun "
 print (msg)
 try:
 	api.update_status(status=msg)
