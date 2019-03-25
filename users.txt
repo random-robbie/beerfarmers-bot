@@ -726,7 +726,6 @@
 @ClausHoumann
 @Code_That_Rocks
 @CuypersJurgen
-@Cvthof
 @Cyber_War_News
 @Dailybits
 @DanielMiessler
